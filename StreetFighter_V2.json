@@ -1,0 +1,14 @@
+[
+  {"nombre":"Ryu","USA":false,"rubio":false,"proyectil":true,"ropa_militar":false,"pecho_destapado":false,"usa_zapatos":false},
+  {"nombre":"Ken","USA":true,"rubio":true,"proyectil":true,"ropa_militar":false,"pecho_destapado":false,"usa_zapatos":false},
+  {"nombre":"Chun-Li","USA":false,"rubio":false,"proyectil":false,"ropa_militar":false,"pecho_destapado":false,"usa_zapatos":true},
+  {"nombre":"Guile","USA":true,"rubio":true,"proyectil":true,"ropa_militar":true,"pecho_destapado":false,"usa_zapatos":true},
+  {"nombre":"E. Honda","USA":false,"rubio":false,"proyectil":false,"ropa_militar":false,"pecho_destapado":true,"usa_zapatos":false},
+  {"nombre":"Blanka","USA":false,"rubio":false,"proyectil":false,"ropa_militar":false,"pecho_destapado":true,"usa_zapatos":false},
+  {"nombre":"Zangief","USA":false,"rubio":false,"proyectil":false,"ropa_militar":false,"pecho_destapado":true,"usa_zapatos":true},
+  {"nombre":"Dhalsim","USA":false,"rubio":false,"proyectil":true,"ropa_militar":false,"pecho_destapado":true,"usa_zapatos":false},
+  {"nombre":"Balrog","USA":true,"rubio":false,"proyectil":false,"ropa_militar":false,"pecho_destapado":false,"usa_zapatos":true},
+  {"nombre":"Vega","USA":false,"rubio":false,"proyectil":false,"ropa_militar":false,"pecho_destapado":true,"usa_zapatos":true},
+  {"nombre":"Sagat","USA":false,"rubio":false,"proyectil":true,"ropa_militar":false,"pecho_destapado":true,"usa_zapatos":false},
+  {"nombre":"M. Bison","USA":false,"rubio":false,"proyectil":false,"ropa_militar":true,"pecho_destapado":false,"usa_zapatos":true}
+]
